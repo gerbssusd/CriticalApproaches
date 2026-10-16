@@ -3,6 +3,7 @@ theme: seriph
 class: lead
 paginate: true
 backgroundColor: '#ffffff'
+favicon: Maxfav.png
 ---
 
 # Introduction to Modern Literary Theory
